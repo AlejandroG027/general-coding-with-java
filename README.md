@@ -2,7 +2,7 @@
 
 ## Breif Overview
 
-The reports below serve as a thourough guide to fundamental features of Java
+The reports below serves as a thourough guide to fundamental features of Java
 
 ## Below outlines concepts that are covered:
 1. Lists (Arrays, Matrices, ArrayList, Maps, etc,)
